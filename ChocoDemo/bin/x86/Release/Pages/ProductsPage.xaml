@@ -1,0 +1,37 @@
+﻿<Page
+    x:Class="ChocoDemo.ProductsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ChocoDemo"
+    xmlns:telerikGrid="using:Telerik.UI.Xaml.Controls.Grid"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row ="0" Orientation="Vertical">
+            <StackPanel  Orientation="Horizontal">
+                <TextBlock FontSize="22">Product Code </TextBlock> 
+                <TextBox x:Name="productCodeTextBox" Text="Code"></TextBox>
+                <TextBlock FontSize="22">Product Description</TextBlock>
+                <TextBox x:Name="productDescriptionTextBox" Text="Description"></TextBox>
+
+                <Button x:ConnectionId='2' FontSize="22" Margin="10,0,0,0"                              >Add Product</Button>
+            
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontSize="22">Search For</TextBlock>
+                <TextBox x:ConnectionId='1'  x:Name="searchTextBox"                                           ></TextBox>
+            </StackPanel>
+        </StackPanel>
+        <telerikGrid:RadDataGrid x:Name="productsGrid"  Grid.Row="1">
+            
+        </telerikGrid:RadDataGrid>
+    </Grid>
+</Page>
+

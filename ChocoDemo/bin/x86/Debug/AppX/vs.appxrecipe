@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CUCU</Machine>
+    <WindowsUser>vlad</WindowsUser>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <RegisteredManifestChecksum>9D574501EB8D8F8124351E3F534D3014436D4E4FAA4A32694CB82F0F787A1AD8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e740a71a-c6a3-4cbe-afe3-414af51fbcea_1.0.0.0_x86__nv5h0bq954q3c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e740a71a-c6a3-4cbe-afe3-414af51fbcea_nv5h0bq954q3c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e740a71a-c6a3-4cbe-afe3-414af51fbcea</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=vlad</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-27T19:48:00.464</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Debug\ChocoDemo.exe">
+      <PackagePath>ChocoDemo.exe</PackagePath>
+      <Modified>2013-04-27T19:47:59.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Debug\ChocoDemo.pdb">
+      <PackagePath>ChocoDemo.pdb</PackagePath>
+      <Modified>2013-04-27T19:47:59.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\Assets\th.jpg">
+      <PackagePath>Assets\th.jpg</PackagePath>
+      <Modified>2013-04-27T17:44:21.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-27T17:14:49.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Debug\NewOrderPage.xaml">
+      <PackagePath>NewOrderPage.xaml</PackagePath>
+      <Modified>2013-04-27T19:26:07.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-04-27T17:53:35.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-27T19:48:00.116</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

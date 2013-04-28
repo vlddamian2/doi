@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CUCU</Machine>
+    <WindowsUser>vlad</WindowsUser>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Release\ChocoDemo.exe">
+      <PackagePath>ChocoDemo.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Release\ChocoDemo.pdb">
+      <PackagePath>ChocoDemo.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Telerik\RadControls for Windows 8 XAML Q1 2013\Binaries\Core\Telerik.Core.dll">
+      <PackagePath>Telerik.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Telerik\RadControls for Windows 8 XAML Q1 2013\Binaries\Grid\Telerik.UI.Xaml.Grid.dll">
+      <PackagePath>Telerik.UI.Xaml.Grid.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Telerik\RadControls for Windows 8 XAML Q1 2013\Binaries\Primitives\Telerik.UI.Xaml.Primitives.dll">
+      <PackagePath>Telerik.UI.Xaml.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Telerik\RadControls for Windows 8 XAML Q1 2013\Binaries\Core\Telerik.Core.xml">
+      <PackagePath>Telerik.Core.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Telerik\RadControls for Windows 8 XAML Q1 2013\Binaries\Grid\Telerik.UI.Xaml.Grid.xml">
+      <PackagePath>Telerik.UI.Xaml.Grid.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Telerik\RadControls for Windows 8 XAML Q1 2013\Binaries\Primitives\Telerik.UI.Xaml.Primitives.xml">
+      <PackagePath>Telerik.UI.Xaml.Primitives.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\Assets\th.jpg">
+      <PackagePath>Assets\th.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Release\Pages\ProductsPage.xaml">
+      <PackagePath>Pages\ProductsPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Release\Pages\NewOrderPage.xaml">
+      <PackagePath>Pages\NewOrderPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Release\Pages\MainPage.xaml">
+      <PackagePath>Pages\MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Telerik\RadControls for Windows 8 XAML Q1 2013\Binaries\Grid\Telerik.UI.Xaml.Grid\Themes\Generic.xaml">
+      <PackagePath>Telerik.UI.Xaml.Grid\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Telerik\RadControls for Windows 8 XAML Q1 2013\Binaries\Grid\Telerik.UI.Xaml.Grid\Themes\PaletteDark.xaml">
+      <PackagePath>Telerik.UI.Xaml.Grid\Themes\PaletteDark.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Telerik\RadControls for Windows 8 XAML Q1 2013\Binaries\Grid\Telerik.UI.Xaml.Grid\Themes\PaletteLight.xaml">
+      <PackagePath>Telerik.UI.Xaml.Grid\Themes\PaletteLight.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Telerik\RadControls for Windows 8 XAML Q1 2013\Binaries\Primitives\Telerik.UI.Xaml.Primitives\Themes\Generic.xaml">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Telerik\RadControls for Windows 8 XAML Q1 2013\Binaries\Primitives\Telerik.UI.Xaml.Primitives\Themes\GlobalPaletteDark.xaml">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\GlobalPaletteDark.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Telerik\RadControls for Windows 8 XAML Q1 2013\Binaries\Primitives\Telerik.UI.Xaml.Primitives\Themes\GlobalPaletteLight.xaml">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\GlobalPaletteLight.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Telerik\RadControls for Windows 8 XAML Q1 2013\Binaries\Primitives\Telerik.UI.Xaml.Primitives\Themes\HubTile.xaml">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\HubTile.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Telerik\RadControls for Windows 8 XAML Q1 2013\Binaries\Primitives\Telerik.UI.Xaml.Primitives\Themes\Pagination.xaml">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\Pagination.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Telerik\RadControls for Windows 8 XAML Q1 2013\Binaries\Primitives\Telerik.UI.Xaml.Primitives\Themes\PaletteDark.xaml">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\PaletteDark.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Telerik\RadControls for Windows 8 XAML Q1 2013\Binaries\Primitives\Telerik.UI.Xaml.Primitives\Themes\PaletteLight.xaml">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\PaletteLight.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\bin\x86\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

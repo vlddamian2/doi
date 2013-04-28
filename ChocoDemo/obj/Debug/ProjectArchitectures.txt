@@ -1,0 +1,1 @@
+C:\Users\vlad\Documents\Visual Studio 2012\Projects\ChocoDemo\ChocoDemo\ChocoDemo.csproj;neutral

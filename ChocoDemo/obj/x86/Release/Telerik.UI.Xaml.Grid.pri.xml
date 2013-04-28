@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Telerik.UI.Xaml.Grid" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Telerik.UI.Xaml.Grid">
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xaml" uri="ms-resource://Telerik.UI.Xaml.Grid/Files/Telerik.UI.Xaml.Grid/Themes/Generic.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Grid\Themes\Generic.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PaletteDark.xaml" uri="ms-resource://Telerik.UI.Xaml.Grid/Files/Telerik.UI.Xaml.Grid/Themes/PaletteDark.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Grid\Themes\PaletteDark.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PaletteLight.xaml" uri="ms-resource://Telerik.UI.Xaml.Grid/Files/Telerik.UI.Xaml.Grid/Themes/PaletteLight.xaml">
+						<Candidate type="Path">
+							<Value>Telerik.UI.Xaml.Grid\Themes\PaletteLight.xaml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Telerik.UI.Xaml.Grid">
+			<ResourceMapSubtree name="Neutral">
+				<NamedResource name="DragToGroup" uri="ms-resource://Telerik.UI.Xaml.Grid/Telerik.UI.Xaml.Grid/Neutral/DragToGroup">
+					<Candidate type="String">
+						<Value>Drag a column header here to group</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
